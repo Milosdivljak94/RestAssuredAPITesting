@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="25" total="28" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-28T04:11:23Z" name="NegativeTestsSuite" finished-at="2022-08-28T04:11:29Z" duration-ms="6807">
+    <groups>
+    </groups>
+    <test started-at="2022-08-28T04:11:23Z" name="Create new user with invalid auth" finished-at="2022-08-28T04:11:23Z" duration-ms="6">
+    </test> <!-- Create new user with invalid auth -->
+    <test started-at="2022-08-28T04:11:23Z" name="Update user with invalid id" finished-at="2022-08-28T04:11:26Z" duration-ms="3459">
+      <class name="APITests">
+        <test-method signature="updateUserWithInvalidId()[pri:0, instance:APITests@68dc098b]" started-at="2022-08-28T04:11:23Z" name="updateUserWithInvalidId" finished-at="2022-08-28T04:11:26Z" duration-ms="3433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserWithInvalidId -->
+      </class> <!-- APITests -->
+    </test> <!-- Update user with invalid id -->
+    <test started-at="2022-08-28T04:11:26Z" name="Delete same user two times" finished-at="2022-08-28T04:11:29Z" duration-ms="2460">
+      <class name="APITests">
+        <test-method signature="deletingSameUserTwice()[pri:0, instance:APITests@7ceb3185]" started-at="2022-08-28T04:11:26Z" name="deletingSameUserTwice" finished-at="2022-08-28T04:11:29Z" duration-ms="2458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletingSameUserTwice -->
+      </class> <!-- APITests -->
+    </test> <!-- Delete same user two times -->
+    <test started-at="2022-08-28T04:11:29Z" name="Create user without body" finished-at="2022-08-28T04:11:29Z" duration-ms="818">
+      <class name="APITests">
+        <test-method signature="createUserWithoutBody()[pri:0, instance:APITests@20f5281c]" started-at="2022-08-28T04:11:29Z" name="createUserWithoutBody" finished-at="2022-08-28T04:11:29Z" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserWithoutBody -->
+      </class> <!-- APITests -->
+    </test> <!-- Create user without body -->
+  </suite> <!-- NegativeTestsSuite -->
+</testng-results>

@@ -1,0 +1,19 @@
+2022-08-28 06:45:05,617 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-28 06:46:22,109 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RestAssuredAPITesting:RestAssuredAPITesting:0.0.1-SNAPSHOT @ C:\Users\divljak\Desktop\RestAssuredAPITesting-master\pom.xml.
+2022-08-28 06:46:22,740 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-28 06:46:22,741 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\divljak\Desktop\RestAssuredAPITesting-master\src\main\resources
+2022-08-28 06:46:22,744 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-28 06:46:22,744 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\divljak\Desktop\RestAssuredAPITesting-master\src\test\resources
+2022-08-28 06:46:24,006 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RestAssuredAPITesting:RestAssuredAPITesting:0.0.1-SNAPSHOT @ C:\Users\divljak\Desktop\RestAssuredAPITesting-master\pom.xml.
+2022-08-28 06:46:24,392 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-28 06:46:24,392 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\divljak\Desktop\RestAssuredAPITesting-master\src\main\resources
+2022-08-28 06:46:24,395 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-28 06:46:24,395 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\divljak\Desktop\RestAssuredAPITesting-master\src\test\resources
+2022-08-28 06:46:25,563 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-28 06:46:25,563 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\divljak\Desktop\RestAssuredAPITesting-master\src\main\resources
+2022-08-28 06:46:25,565 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-28 06:46:25,565 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\divljak\Desktop\RestAssuredAPITesting-master\src\test\resources
+2022-08-28 06:46:46,649 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-28 06:46:46,650 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\divljak\Desktop\RestAssuredAPITesting-master\src\main\resources
+2022-08-28 06:46:46,652 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-28 06:46:46,652 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\divljak\Desktop\RestAssuredAPITesting-master\src\test\resources

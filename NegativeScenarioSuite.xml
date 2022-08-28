@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="NegativeTestsSuite">
+
+ <test name="Create new user with invalid auth">
+  
+    <classes>
+      <class name="APITests">
+       <methods>
+          <include name="createNewUserBadAuth"/>
+        </methods>
+      </class>
+    </classes>
+    
+  </test>
+  
+   <test name="Update user with invalid id">
+  
+    <classes>
+      <class name="APITests">
+       <methods>
+          <include name="updateUserWithInvalidId"/>
+        </methods>
+      </class>
+    </classes>
+    
+  </test>
+  
+     <test name="Delete same user two times">
+  
+    <classes>
+      <class name="APITests">
+       <methods>
+          <include name="deletingSameUserTwice"/>
+        </methods>
+      </class>
+    </classes>
+    
+  </test>
+  
+       <test name="Create user without body">
+  
+    <classes>
+      <class name="APITests">
+       <methods>
+          <include name="createUserWithoutBody"/>
+        </methods>
+      </class>
+    </classes>
+    
+  </test>
+
+</suite>
+
